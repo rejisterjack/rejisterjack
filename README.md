@@ -57,19 +57,6 @@ I'm Rupam Das, a dedicated **Full Stack Developer** specializing in **React.js, 
 
 ---
 
-## 🏢 **Professional Experience**
-
-- **Software Engineer I | EL Nova Labs | Mar 2024 – Present**  
-  - Developed a data synchronization mechanism, reducing inconsistencies by **35%** and ensuring real-time accuracy.  
-  - Integrated multiple micro-frontends, enhancing the user interface consistency by **40%**.  
-  - Managed a team of 5 developers, boosting productivity and project delivery efficiency by **30%**.  
-
-- **Frontend Engineer | Big Wings LLC | Jan 2023 – Feb 2024**  
-  - Optimized real-time vehicle tracking using **React.js**, improving performance by **45%**.  
-  - Designed a custom scheduling algorithm, decreasing scheduling errors by **35%**.  
-
----
-
 ## 📚 **Projects**
 
 - **Threads | Next.js, React.js, Node.js, MongoDB, Clerk, ShadcnUI**  
