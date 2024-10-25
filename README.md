@@ -68,10 +68,6 @@ I'm Rupam Das, a dedicated **Full Stack Developer** specializing in **React.js, 
   - Optimized real-time vehicle tracking using **React.js**, improving performance by **45%**.  
   - Designed a custom scheduling algorithm, decreasing scheduling errors by **35%**.  
 
-- **Software Engineer Intern | PrepBytes Technologies | Jul 2022 – Dec 2022**  
-  - Created responsive UIs using **React**, enhancing the cross-device user experience.  
-  - Improved state management using **Redux**, streamlining component interactions.  
-
 ---
 
 ## 📚 **Projects**
