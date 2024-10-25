@@ -17,17 +17,20 @@ I'm Rupam Das, a dedicated **Full Stack Developer** specializing in **React.js, 
 ## 🛠️ **Tech Stack & Tools**
 
 ### **Languages & Frameworks**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust) 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js) 
+
 
 ### **Database & Backend**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) 
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase) 
