@@ -1,42 +1,29 @@
-# 💻 **Rupam Das | Full Stack MERN Developer | DevOps Enthusiast**
+# 💻 **Rupam Das | Full Stack MERN Developer | Data Science & AI Enthusiast**
 
-### Hi there! 👋  
-I'm Rupam Das, a dedicated **Full Stack Developer** specializing in **React.js, Node.js**, and **DevOps** practices. I have experience in building scalable applications, leading development teams, and enhancing user experiences through seamless integrations.
+### Hello, I'm Rupam Das! 👋  
+A dedicated **Full Stack Developer** with a strong foundation in **React.js** and **Node.js**, and a growing passion for **Data Science** and **AI**. I build dynamic, user-centric applications and constantly explore new horizons in **AI-driven solutions**.
 
 ---
 
 ## 🚀 **About Me**
 
-- **Frontend Specialist:** Proficient in **React.js** with a deep understanding of state management, UI libraries, and responsive design.
-- **Backend Expertise:** Skilled in creating robust server-side applications using **Node.js** and **Express.js**.
-- **Microservices Integration:** Efficient at synchronizing data and optimizing microservices for consistent and real-time results.
-- **DevOps Knowledge:** Experience in **CI/CD**, **containerization**, **cloud services**, and **team leadership** to drive productivity and project efficiency.
+- **Frontend Specialist:** Crafting intuitive, responsive interfaces using **React.js** and advanced state management.
+- **Backend Developer:** Creating scalable backend architectures using **Node.js** and databases like **MongoDB** and **PostgreSQL**.
+- **DevOps Knowledge:** Proficient in CI/CD practices, containerization, and cloud services to streamline deployments and operations.
+- **Data Science & AI Enthusiast:** Delving into **Machine Learning** and **AI**, exploring how to create intelligent applications and solutions.
 
 ---
 
 ## 🛠️ **Tech Stack & Tools**
 
-### **Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) 
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js) 
-
-### **Database & Backend**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase) 
-
-### **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops) 
+**Languages & Frameworks:** JavaScript, TypeScript, Python, Rust, Go, React.js, Next.js, Express.js, Node.js  
+**Database & Backend:** MongoDB, PostgreSQL, Prisma, Firebase  
+**DevOps & Cloud:** Docker, GitHub Actions, AWS, Azure DevOps  
+**Other Tools:** Redux, ChakraUI, TailwindCSS, MaterialUI, Git, Cloudinary, Zod  
 
 ---
 
-## 📈 **GitHub Stats**
+## 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rejisterjack&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
@@ -46,13 +33,6 @@ I'm Rupam Das, a dedicated **Full Stack Developer** specializing in **React.js, 
 ### **Top Languages**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejisterjack&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-</p>
-
----
-
-## 🏆 **GitHub Trophies**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rejisterjack&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
