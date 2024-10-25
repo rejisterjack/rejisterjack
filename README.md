@@ -1,4 +1,4 @@
-# 💻 **Rupam Das | Full Stack MERN Developer | DevOps Enthusiast**
+# 💻 **Rupam Das | Full Stack Engineer | DevOps Enthusiast**
 
 ### Hi there! 👋  
 I'm Rupam Das, a dedicated **Full Stack Developer** specializing in **React.js, Node.js**, and **DevOps** practices. I have experience in building scalable applications, leading development teams, and enhancing user experiences through seamless integrations.
@@ -19,6 +19,9 @@ I'm Rupam Das, a dedicated **Full Stack Developer** specializing in **React.js, 
 ### **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust) 
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) 
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) 
@@ -27,10 +30,12 @@ I'm Rupam Das, a dedicated **Full Stack Developer** specializing in **React.js, 
 ### **Database & Backend**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase) 
 
 ### **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops) 
 
