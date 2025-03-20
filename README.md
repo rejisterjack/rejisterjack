@@ -7,7 +7,7 @@ I'm Rupam Das, a dedicated **Full Stack Developer** specializing in **React.js, 
 
 ## 🚀 **About Me**
 
-- **Frontend Specialist:** Proficient in **React.js** with a deep understanding of state management, UI libraries, and responsive design.
+- **Frontend Specialist:** Proficient in **React.js** and **Next.js** with a deep understanding of state management, UI libraries, and responsive design.
 - **Backend Expertise:** Skilled in creating robust server-side applications using **Rust**, **GoLang**, **Node.js** and **Express.js**.
 - **Microservices Integration:** Efficient at synchronizing data and optimizing microservices for consistent and real-time results.
 - **DevOps Knowledge:** Experience in **CI/CD**, **containerization**, **cloud services**, and **team leadership** to drive productivity and project efficiency.
